@@ -5,5 +5,8 @@
     "**/bower_components": true,
     "**/.sfdx": true
   },
-  "eslint.nodePath": "c:\\Users\\Сергей\\.vscode\\extensions\\salesforce.salesforcedx-vscode-lwc-45.15.1\\node_modules"
+  "eslint.nodePath": "c:\\Users\\Сергей\\.vscode\\extensions\\salesforce.salesforcedx-vscode-lwc-45.15.1\\node_modules",
+
+  "salesforcedx-vscode-core.retrieve-test-code-coverage": true,
+  "salesforcedx-vscode-apex.java.home": "C:\\Program Files\\Java\\jdk1.8.0_211"
 }
