@@ -1,3 +1,5 @@
 <aura:component>
+    <c:HiHeading/>
     <p>Hi Lightning!</p>
+    
 </aura:component>	
