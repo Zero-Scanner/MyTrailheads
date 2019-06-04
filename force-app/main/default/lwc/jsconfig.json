@@ -2,14 +2,14 @@
     "compilerOptions": {
         "baseUrl": ".",
         "paths": {
-            "c/nouislider": [
-                "../staticresources/nouislider/nouislider.js"
+            "c/helloWorld": [
+                "helloWorld/helloWorld.js"
             ],
             "c/leaflet": [
                 "../staticresources/leaflet/leaflet.js"
             ],
-            "c/helloWorld": [
-                "helloWorld/helloWorld.js"
+            "c/nouislider": [
+                "../staticresources/nouislider/nouislider.js"
             ]
         },
         "experimentalDecorators": true

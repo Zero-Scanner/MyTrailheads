@@ -1,3 +1,3 @@
 <aura:application> 
-    <c:HiWorld/>
+    <c:HelloMessageInteractive/>
 </aura:application>	
